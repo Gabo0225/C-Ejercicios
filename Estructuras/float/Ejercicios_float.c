@@ -88,7 +88,7 @@ int main (){
     //punto2();
     //punto3();
     //punto4();
-    punto5();
+    //punto5();
 
     /* 
     Para ejecuar el punto 5
